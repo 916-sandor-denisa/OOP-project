@@ -1,0 +1,8 @@
+C++ in 100 Seconds,Fireship,2,45,70000,https://www.youtube.com/watch?v=MNeX4EGtR5Y
+Learn C++ With Me,Tech With Tim,21,56,1501,https://www.youtube.com/watch?v=1FVBeLD_FdE
+C++ Full Course for free,Bro Code,360,30,105000,https://www.youtube.com/watch?v=-TkoO8Z07hI
+C++ Tutorial From Basic to Advance,ExterCode,700,17,83001,https://www.youtube.com/watch?v=mUQZ1qmKlLY&t=97s
+C++ Tutorial for Beginners - Learn C++ in 1 Hour,Programming with Mosh,86,50,90000,https://www.youtube.com/watch?v=ZzaPdXTrSb8
+C++ Tutorial for Beginners,freeCodeCamp.org,210,12,278000,https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=5s
+Object Oriented Programming (OOP) in C++ Course,CodeBeauty,90,45,65000,https://www.youtube.com/watch?v=wN0x9eZLix4&t=2839s
+Learning C++ by making a Game,Floky,10,12,7300,https://www.youtube.com/watch?v=y27SHJh706A
