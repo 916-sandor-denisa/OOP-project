@@ -2,7 +2,7 @@
  <class>GUIClass</class>
  <widget class="QWidget" name="GUIClass" >
   <property name="objectName" >
-   <string notr="true">gUIClass</string>
+   <string notr="true">GUIClass</string>
   </property>
   <property name="geometry" >
    <rect>
